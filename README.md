@@ -31,7 +31,7 @@ I'm Mustafa Dahodwala, a Data Science undergraduate passionate about Artificial 
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://linkedin.com/mustafa-dahodwala-876b78366
 - GitHub: https://github.com/mustafadahodwala51-design
 
 ---
