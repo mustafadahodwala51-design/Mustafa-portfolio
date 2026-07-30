@@ -1,29 +1,39 @@
-# Welcome to your Lovable project
+# Mustafa Dahodwala – Portfolio
 
-This project was built with [Lovable](https://lovable.dev).
+Welcome to my personal portfolio website.
 
-## Build with Lovable
+## 👋 About
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+I'm Mustafa Dahodwala, a Data Science undergraduate passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+## 🚀 Tech Stack
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
 - React
+- TypeScript
+- Vite
 - Tailwind CSS
+- Python
+- SQL
+- Scikit-learn
+- Pandas
+- NumPy
+
+## 📂 Featured Projects
+
+- Employee Attrition Prediction
+- House Price Prediction 
+- Sahasya – Women Safety Application
+- WeatherZilla
+
+## 🌐 Live Website
+
+(Add your Vercel link after deployment)
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- GitHub: https://github.com/mustafadahodwala51-design
+
+---
+
+Made with ❤️ by Mustafa Dahodwala
